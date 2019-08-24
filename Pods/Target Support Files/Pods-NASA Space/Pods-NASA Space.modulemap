@@ -1,0 +1,6 @@
+framework module Pods_NASA_Space {
+  umbrella header "Pods-NASA Space-umbrella.h"
+
+  export *
+  module * { export * }
+}
